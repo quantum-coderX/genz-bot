@@ -66,7 +66,7 @@ python app.py
 - 🚀 Fast response times using Groq's LLama3 model
 
 ---
-Made with ❤️ by quantum-coderX 
+Made with ❤️ by quantum-coderX & Christo-24
 
 ![Python](https://img.shields.io/badge/python-3.x-blue)
 ![Flask](https://img.shields.io/badge/flask-2.x-lightgrey)
