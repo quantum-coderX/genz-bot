@@ -2,8 +2,8 @@
 
 
 ## Basic Details
-### Team Member: Adithyan Raj
-### Team Member: Christo E Mathew
+### Team Member: Adithyan Raj -MITS
+### Team Member: Christo E Mathew -MITS
 
 ### Project Description
 A Flask-based chat application that responds to your messages in Gen Z slang and occasionally includes random trending GIFs. The bot uses Groq AI API to generate trendy, casual responses with emojis.
